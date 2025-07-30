@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What time is check-in?",
+    "answer": "Check-in is from 16:00.",
+    "tags": ["check-in", "time", "arrival"]
+  },
+  {
+    "question": "What time is check-out?",
+    "answer": "Check-out is by 11:00.",
+    "tags": ["check-out", "time", "departure"]
+  },
+  {
+    "question": "Are pets allowed?",
+    "answer": "No, pets are not allowed.",
+    "tags": ["pets", "policy", "animals"]
+  },
+  {
+    "question": "Is smoking allowed?",
+    "answer": "No, smoking is not permitted.",
+    "tags": ["smoking", "policy", "health"]
+  },
+  {
+    "question": "Do you offer breakfast?",
+    "answer": "Yes, breakfast is offered.",
+    "tags": ["breakfast", "meals", "dining"]
+  },
+  {
+    "question": "What meals does the on-site restaurant serve?",
+    "answer": "The restaurant serves breakfast, lunch, and dinner.",
+    "tags": ["restaurant", "meals", "dining"]
+  },
+  {
+    "question": "Are parties allowed?",
+    "answer": "No, parties are not allowed.",
+    "tags": ["parties", "events", "policy"]
+  },
+  {
+    "question": "What are the hotel's quiet hours?",
+    "answer": "Quiet hours are from 22:00 to 07:00.",
+    "tags": ["quiet-hours", "policy", "noise"]
+  },
+  {
+    "question": "What is the hotel's address?",
+    "answer": "Innere Poststrasse 269, 7050 Arosa, Switzerland.",
+    "tags": ["address", "location", "contact"]
+  },
+  {
+    "question": "Is there parking?",
+    "answer": "Yes, free public parking is available on site.",
+    "tags": ["parking", "amenities", "facilities", "car", "vehicle"]
+  },
+  {
+    "question": "Do you have a spa?",
+    "answer": "I'm sorry, I don't have information on that. Please contact the hotel directly for details.",
+    "tags": ["spa", "fallback", "amenities"]
+  }
+]
